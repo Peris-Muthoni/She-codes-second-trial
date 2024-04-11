@@ -79,9 +79,14 @@ main {
   font-size: 88px;
   line-height: 88px;
   font-weight: bold;
+
+}
+.weather-forecast-temperatures{
+  text-align:left;
+  color: #f65282;
 }
 
-.weatehr-app-unit {
+.weather-app-unit {
   margin-top: 6px;
   font-size: 28px;
 }
