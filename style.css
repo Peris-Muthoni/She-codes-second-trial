@@ -54,6 +54,19 @@ main {
   font-size: 38px;
   line-height: 48px;
 }
+.weather-forecast {
+  display: flex;
+  justify-content: space-between;
+}
+
+.weather-forecast-day,
+.weather-forecast-date,
+.weather-forecast-icon,
+.weather-forecast-temperature {
+  display: inline-block; 
+  vertical-align: middle;
+}
+
 
 .weather-app-details {
   font-size: 16px;
